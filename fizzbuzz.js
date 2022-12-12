@@ -8,7 +8,7 @@ function fizzBuzz (number) {
   if (number % 5 === 0) {
     return 'Buzz'
   }
-  return  number
+  return number
 }
 
 for (let i = 1; i <= 100; i++) {
